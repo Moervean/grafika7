@@ -75,6 +75,8 @@ class Figure:
                 maxY = point.y
         return maxX, maxY
 
+    pass
+
     def getMinPointsValue(self):
         minX = 700
         minY = 700
